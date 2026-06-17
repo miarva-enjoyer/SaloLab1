@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.exe
+C:\Users\user\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.deps.json
+C:\Users\user\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.runtimeconfig.json
+C:\Users\user\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.dll
+C:\Users\user\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.pdb
+C:\Users\user\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.AssemblyInfo.cs
+C:\Users\user\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.dll
+C:\Users\user\source\repos\Tree\Tree\obj\Debug\net8.0\refint\Tree.dll
+C:\Users\user\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.pdb
+C:\Users\user\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.genruntimeconfig.cache
+C:\Users\user\source\repos\Tree\Tree\obj\Debug\net8.0\ref\Tree.dll
