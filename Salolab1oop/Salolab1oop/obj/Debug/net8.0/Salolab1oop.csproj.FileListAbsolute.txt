@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\bin\Debug\net8.0\Salolab1oop.exe
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\bin\Debug\net8.0\Salolab1oop.deps.json
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\bin\Debug\net8.0\Salolab1oop.runtimeconfig.json
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\bin\Debug\net8.0\Salolab1oop.dll
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\bin\Debug\net8.0\Salolab1oop.pdb
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\obj\Debug\net8.0\Salolab1oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\obj\Debug\net8.0\Salolab1oop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\obj\Debug\net8.0\Salolab1oop.AssemblyInfo.cs
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\obj\Debug\net8.0\Salolab1oop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\obj\Debug\net8.0\Salolab1oop.dll
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\obj\Debug\net8.0\refint\Salolab1oop.dll
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\obj\Debug\net8.0\Salolab1oop.pdb
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\obj\Debug\net8.0\Salolab1oop.genruntimeconfig.cache
+C:\Users\user\source\repos\Salolab1oop\Salolab1oop\obj\Debug\net8.0\ref\Salolab1oop.dll
