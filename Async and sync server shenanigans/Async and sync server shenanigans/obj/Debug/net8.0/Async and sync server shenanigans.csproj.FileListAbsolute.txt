@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\bin\Debug\net8.0\Async and sync server shenanigans.exe
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\bin\Debug\net8.0\Async and sync server shenanigans.deps.json
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\bin\Debug\net8.0\Async and sync server shenanigans.runtimeconfig.json
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\bin\Debug\net8.0\Async and sync server shenanigans.dll
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\bin\Debug\net8.0\Async and sync server shenanigans.pdb
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\obj\Debug\net8.0\Async and sync server shenanigans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\obj\Debug\net8.0\Async and sync server shenanigans.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\obj\Debug\net8.0\Async and sync server shenanigans.AssemblyInfo.cs
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\obj\Debug\net8.0\Async and sync server shenanigans.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\obj\Debug\net8.0\Async and sync server shenanigans.dll
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\obj\Debug\net8.0\refint\Async and sync server shenanigans.dll
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\obj\Debug\net8.0\Async and sync server shenanigans.pdb
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\obj\Debug\net8.0\Async and sync server shenanigans.genruntimeconfig.cache
+C:\Users\user\source\repos\Async and sync server shenanigans\Async and sync server shenanigans\obj\Debug\net8.0\ref\Async and sync server shenanigans.dll
